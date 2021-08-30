@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1624694399 source:/home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/main.cpp
+	"testrunner.h"
+	"sum_reverse_sort.h"
+
+1624698219 /home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/testrunner.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1624691769 /home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/sum_reverse_sort.h
+	<string>
+	<vector>
+
+1624697800 source:/home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/sum_reverse_sort.cpp
+	<string>
+	<vector>
+	<algorithm>
+	"tests.h"
+
+1624698003 /home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/tests.h
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1624698206 source:/home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/testrunner.cpp
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+	"testrunner.h"
+
+1624697966 source:/home/oksana/university/courses/yellowCoursera/week3/Sum_reverse_sort/tests.cpp
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<stdexcept>
+	<string>
+	<vector>
+	"tests.h"
+
